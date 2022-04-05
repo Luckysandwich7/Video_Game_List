@@ -1,0 +1,104 @@
+[
+    {
+        "gameName": "Minecraft",
+        "platform": "Xbox, PlayStation, PC, Nintendo Switch",
+        "release": "18 Novemeber 2011",
+        "imageUrl": "https://s3.amazonaws.com/static.contentres.com/media/InlineContent/originalSize/2ea6201a-5754-485a-aea8-b43bbb23c1ee.png"
+    },
+    {
+        "gameName": "Super Smash Bros. Ultimate.",
+        "platform": "Nintendo Switch",
+        "release": "7 December 2018",
+        "imageUrl": "https://s3.amazonaws.com/static.contentres.com/media/InlineContent/originalSize/4f340f70-4b4b-43a5-bca7-d65645be5bdd.jpg"
+    },
+    {
+        "gameName": "Spider-Man",
+        "platform": "PlayStation",
+        "release": "12 November 2020",
+        "imageUrl": "https://s3.amazonaws.com/static.contentres.com/media/InlineContent/originalSize/97cd743d-63a7-4ebc-98bd-60898eeac063.jpg"
+    },
+    {
+        "gameName": "Grand Theft Auto V",
+        "platform": "Xbox, PlayStaion, PC",
+        "release": "17 September 2013",
+        "imageUrl": "https://s3.amazonaws.com/static.contentres.com/media/InlineContent/originalSize/ee5ed3a2-6a04-4f0d-a9b0-a5b906022c0d.png"
+    },
+    {
+        "gameName": "Red Dead Redemption II",
+        "platform": "Xbox, PlayStation, PC",
+        "release": "26 October 2018",
+        "imageUrl": "https://s3.amazonaws.com/static.contentres.com/media/InlineContent/originalSize/29d8c97e-30c7-4255-9944-deaebeb77f4d.jpg"
+    },
+    {
+        "gameName": "Fortnite",
+        "platform": "Logan, Utah, United States",
+        "release": "21 July 2017",
+        "imageUrl": "https://s3.amazonaws.com/static.contentres.com/media/InlineContent/originalSize/1e1fdc7c-b53d-49f0-8b3d-23e18ab9537e.jpg"
+    },
+    {
+        "gameName": "Rocket League",
+        "platform": "Xbox, PlayStation, PC, Nintendo Switch",
+        "release": "7 July 2015",
+        "imageUrl": "https://s3.amazonaws.com/static.contentres.com/media/InlineContent/originalSize/3b71a6e5-7dfc-4778-b8cf-6050e5d5f326.jpg"
+    },
+    {
+        "gameName": "Call of Duty: Black Ops IIII",
+        "platform": "Xbox, PlayStation, PC",
+        "release": "12 October 2018",
+        "imageUrl": "https://s3.amazonaws.com/static.contentres.com/media/InlineContent/originalSize/0c90ef30-2161-4f1e-a9aa-a83cbce86ee7.jpg"
+    },
+    {
+        "gameName": "Halo Infinite",
+        "platform": "Xbox, PC",
+        "dedicated": "15 November 2021",
+        "imageUrl": "https://s3.amazonaws.com/static.contentres.com/media/InlineContent/originalSize/c41b6955-85da-4ec3-b04e-f501c27d606f.png"        
+    },
+    {
+        "gameName": "Skyrim",
+        "platform": "Xbox, PlayStation, PC, Nintendo Switch",
+        "release": "11 November 2011",
+        "imageUrl": "https://s3.amazonaws.com/static.contentres.com/media/InlineContent/originalSize/25e2b654-83c8-4656-8dca-f6a903d5b4d0.png"
+    },
+    {
+        "gameName": "Apex Legends",
+        "platform": "Xbox, PlayStation, PC, Nintendo Switch",
+        "release": "4 February 2019",
+        "imageUrl": "https://s3.amazonaws.com/static.contentres.com/media/InlineContent/originalSize/cdd5f866-4710-444f-a5dd-b138bf74c3e6.jpg"
+    },
+    {
+        "gameName": "Elden Ring",
+        "platform": "Xbox, PlayStation, PC",
+        "dedicated": "25 February 2022",
+        "imageUrl": "https://s3.amazonaws.com/static.contentres.com/media/InlineContent/originalSize/b51b5b1b-4396-43c1-bcf7-84b448e3293e.jpg"
+    },
+    {
+        "gameName": "League of Legends",
+        "platform": "PC",
+        "release": "27 October 2009",
+        "imageUrl": "https://s3.amazonaws.com/static.contentres.com/media/InlineContent/originalSize/98f67113-94df-4104-98c6-00d0cb303d64.jpg"
+    },
+    {
+        "gameName": "Overwatch",
+        "platform": "Xbox, PlayStation, PC",
+        "release": "24 May 2016",
+        "imageUrl": "https://s3.amazonaws.com/static.contentres.com/media/InlineContent/originalSize/5c33fde3-31fd-4106-a24b-55b2c35e5a5a.jpg"
+    },
+    {
+        "gameName": "Tom Clancy’s Rainbow Six Siege",
+        "platform": "Xbox, PlayStation, PC",
+        "release": "1 December 2015",
+        "imageUrl": "https://s3.amazonaws.com/static.contentres.com/media/InlineContent/originalSize/19afc344-07ef-4130-a936-77604cdc1eb5.jpg"
+    },
+    {
+        "gameName": "Call of Duty: Warzone (Modern Warfare)",
+        "platform": "Xbox, Playstation, PC",
+        "release": "25 October 2019",
+        "imageUrl": "https://s3.amazonaws.com/static.contentres.com/media/InlineContent/originalSize/353c428a-fc1f-4b79-9214-04a563af2401.jpg"
+    },
+    {
+        "gameName": "PlayerUnknown’s Battlegrounds",
+        "platform": "Xbox, PlayStation, PC",
+        "release": "21 December 2017",
+        "imageUrl": "https://s3.amazonaws.com/static.contentres.com/media/InlineContent/originalSize/9b8291d3-5c19-47bf-9b91-97b14688a922.webp"
+    }
+]
